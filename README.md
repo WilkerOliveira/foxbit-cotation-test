@@ -7,6 +7,9 @@
 
 A real-time cryptocurrency listing application built with Flutter, leveraging WebSockets to provide up-to-the-minute price updates.
 
+<div align="center">
+<img src="https://github.com/user-attachments/assets/94cad56d-4366-41db-8cc7-d8a6a8fa0bb7" alt="Screenshot_1748628935" style="width: 25%;">
+</div>
 ---
 
 ## 🛠️ Technologies & Packages
