@@ -1,0 +1,2 @@
+/Users/wilkeroliveira/Documents/teste FoxBit/hiring-test-flutter-main/android/app/.cxx/RelWithDebInfo/1s474g13/x86_64/CMakeFiles/edit_cache.dir
+/Users/wilkeroliveira/Documents/teste FoxBit/hiring-test-flutter-main/android/app/.cxx/RelWithDebInfo/1s474g13/x86_64/CMakeFiles/rebuild_cache.dir

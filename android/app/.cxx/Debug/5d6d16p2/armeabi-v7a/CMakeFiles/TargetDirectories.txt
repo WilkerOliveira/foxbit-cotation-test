@@ -1,0 +1,2 @@
+/Users/wilkeroliveira/Documents/teste FoxBit/git/foxbit-cotation-test/android/app/.cxx/Debug/5d6d16p2/armeabi-v7a/CMakeFiles/edit_cache.dir
+/Users/wilkeroliveira/Documents/teste FoxBit/git/foxbit-cotation-test/android/app/.cxx/Debug/5d6d16p2/armeabi-v7a/CMakeFiles/rebuild_cache.dir

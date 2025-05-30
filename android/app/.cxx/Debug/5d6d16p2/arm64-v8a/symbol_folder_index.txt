@@ -1,0 +1,1 @@
+/Users/wilkeroliveira/Documents/teste FoxBit/git/foxbit-cotation-test/build/app/intermediates/cxx/Debug/5d6d16p2/obj/arm64-v8a
